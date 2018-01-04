@@ -1,16 +1,16 @@
-name: "name"
+name: "Stewart"
 output_dir: "."
 navbar:
 title: "My Important Site"
 left:
     - text: "About"
       icon: fa-database
-      href: http://example.com
+      href: http://dsi.ucdavis.edu
       
 right:
     - text: "Report"
     icon: fa-info-circle
-    href: syllabus.html
+    href: page1.html
 
 output:
     html_document:
