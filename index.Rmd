@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "How to make a website in R studio"
 
 ---
 

@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #interactive plot 
 lets make a ggplot of cars, speed agaisnt distance
-```{r}
+```{r, message=FALSE}
 #install.packages("plotly")
 library(plotly)
 library(ggplot2)
